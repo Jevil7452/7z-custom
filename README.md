@@ -1,5 +1,5 @@
 # 7z-custom
- 7-Zip source code with custom filesize split defaults. Created for personal use
+ 7-Zip source code with custom file size split presets. Created for personal use
 
 # What's different from normal 7-Zip?
  There are new file size split presets added:
